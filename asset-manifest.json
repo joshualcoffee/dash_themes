@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/joshualcoffee/dash_themes/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/joshualcoffee/dash_themes/static/js/main.6004eae5.chunk.js",
+    "main.js.map": "/joshualcoffee/dash_themes/static/js/main.6004eae5.chunk.js.map",
+    "runtime-main.js": "/joshualcoffee/dash_themes/static/js/runtime-main.6b1900be.js",
+    "runtime-main.js.map": "/joshualcoffee/dash_themes/static/js/runtime-main.6b1900be.js.map",
+    "static/js/2.a0796195.chunk.js": "/joshualcoffee/dash_themes/static/js/2.a0796195.chunk.js",
+    "static/js/2.a0796195.chunk.js.map": "/joshualcoffee/dash_themes/static/js/2.a0796195.chunk.js.map",
+    "index.html": "/joshualcoffee/dash_themes/index.html",
+    "precache-manifest.bf3bd1d5cd4d6f3541c147007a33f396.js": "/joshualcoffee/dash_themes/precache-manifest.bf3bd1d5cd4d6f3541c147007a33f396.js",
+    "service-worker.js": "/joshualcoffee/dash_themes/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/joshualcoffee/dash_themes/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a0796195.chunk.js.LICENSE.txt": "/joshualcoffee/dash_themes/static/js/2.a0796195.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b1900be.js",
+    "static/js/2.a0796195.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.6004eae5.chunk.js"
+  ]
+}
