@@ -1,0 +1,31 @@
+import { Meta, Story, Canvas } from "@storybook/addon-docs/blocks";
+
+<Meta title="Hard implementation" />
+
+# Harder implementation
+
+## Custom layouts
+
+At the moment we cannot easily refactor the dashcard to support multiple layouts.
+We would essentially need to create multiple versions of each dashcard to allow custom layouts.
+This would also be complicated to maintain in the future as we would need to support each version of the layout.
+
+## Proposed solution
+
+- Utilize spectacle
+- Allow users to create custom layouts for each dashcard in their presentation via a layout builder. (https://craft.js.org/ or similar)
+- or have multiple layouts for each type of dashcard that the user can use.
+- Allow users to mix and match data. Example: have the gender chart with the CTR donut chart side by side.
+
+## Benefits
+
+- Allows more customization
+- Can utilize existing charts and graphs.
+- Uses spectacle so you could also have a presentation that could be sent to users. Allowing a more dynamic experience.
+- Spectacle allows you to export presentations as PDF's
+
+## Issues
+
+- Will require much more time to develop
+- Completely changes the way we are exporting PDF's.
+- Requires users to implement the custom layouts.
