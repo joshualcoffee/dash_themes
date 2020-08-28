@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dash_themes/dash_themes/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/dash_themes/dash_themes/static/js/main.a0a1db21.chunk.js",
-    "main.js.map": "/dash_themes/dash_themes/static/js/main.a0a1db21.chunk.js.map",
-    "runtime-main.js": "/dash_themes/dash_themes/static/js/runtime-main.033548f4.js",
-    "runtime-main.js.map": "/dash_themes/dash_themes/static/js/runtime-main.033548f4.js.map",
-    "static/js/2.87384b9c.chunk.js": "/dash_themes/dash_themes/static/js/2.87384b9c.chunk.js",
-    "static/js/2.87384b9c.chunk.js.map": "/dash_themes/dash_themes/static/js/2.87384b9c.chunk.js.map",
-    "index.html": "/dash_themes/dash_themes/index.html",
-    "precache-manifest.374d0a7f8bd8fd17044ec7c4de9c31be.js": "/dash_themes/dash_themes/precache-manifest.374d0a7f8bd8fd17044ec7c4de9c31be.js",
-    "service-worker.js": "/dash_themes/dash_themes/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/dash_themes/dash_themes/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.87384b9c.chunk.js.LICENSE.txt": "/dash_themes/dash_themes/static/js/2.87384b9c.chunk.js.LICENSE.txt"
+    "main.css": "/dash_themes/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/dash_themes/static/js/main.4078ffea.chunk.js",
+    "main.js.map": "/dash_themes/static/js/main.4078ffea.chunk.js.map",
+    "runtime-main.js": "/dash_themes/static/js/runtime-main.a6a819d5.js",
+    "runtime-main.js.map": "/dash_themes/static/js/runtime-main.a6a819d5.js.map",
+    "static/js/2.789e5584.chunk.js": "/dash_themes/static/js/2.789e5584.chunk.js",
+    "static/js/2.789e5584.chunk.js.map": "/dash_themes/static/js/2.789e5584.chunk.js.map",
+    "index.html": "/dash_themes/index.html",
+    "precache-manifest.9a468ff18351557c15c6a0fa50b4668f.js": "/dash_themes/precache-manifest.9a468ff18351557c15c6a0fa50b4668f.js",
+    "service-worker.js": "/dash_themes/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/dash_themes/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.789e5584.chunk.js.LICENSE.txt": "/dash_themes/static/js/2.789e5584.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.033548f4.js",
-    "static/js/2.87384b9c.chunk.js",
+    "static/js/runtime-main.a6a819d5.js",
+    "static/js/2.789e5584.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.a0a1db21.chunk.js"
+    "static/js/main.4078ffea.chunk.js"
   ]
 }
